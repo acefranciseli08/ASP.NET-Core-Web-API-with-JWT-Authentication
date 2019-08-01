@@ -1,0 +1,14 @@
+C:\Users\eliam\source\repos\JWTTest\bin\Debug\netcoreapp2.1\JWTTest.deps.json
+C:\Users\eliam\source\repos\JWTTest\bin\Debug\netcoreapp2.1\JWTTest.runtimeconfig.json
+C:\Users\eliam\source\repos\JWTTest\bin\Debug\netcoreapp2.1\JWTTest.runtimeconfig.dev.json
+C:\Users\eliam\source\repos\JWTTest\bin\Debug\netcoreapp2.1\JWTTest.dll
+C:\Users\eliam\source\repos\JWTTest\obj\Debug\netcoreapp2.1\JWTTest.csprojAssemblyReference.cache
+C:\Users\eliam\source\repos\JWTTest\obj\Debug\netcoreapp2.1\JWTTest.csproj.CoreCompileInputs.cache
+C:\Users\eliam\source\repos\JWTTest\obj\Debug\netcoreapp2.1\JWTTest.RazorAssemblyInfo.cache
+C:\Users\eliam\source\repos\JWTTest\obj\Debug\netcoreapp2.1\JWTTest.RazorAssemblyInfo.cs
+C:\Users\eliam\source\repos\JWTTest\obj\Debug\netcoreapp2.1\JWTTest.AssemblyInfoInputs.cache
+C:\Users\eliam\source\repos\JWTTest\obj\Debug\netcoreapp2.1\JWTTest.AssemblyInfo.cs
+C:\Users\eliam\source\repos\JWTTest\obj\Debug\netcoreapp2.1\JWTTest.RazorTargetAssemblyInfo.cache
+C:\Users\eliam\source\repos\JWTTest\bin\Debug\netcoreapp2.1\JWTTest.pdb
+C:\Users\eliam\source\repos\JWTTest\obj\Debug\netcoreapp2.1\JWTTest.dll
+C:\Users\eliam\source\repos\JWTTest\obj\Debug\netcoreapp2.1\JWTTest.pdb
